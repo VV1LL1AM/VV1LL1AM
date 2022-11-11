@@ -1,0 +1,36 @@
+
+
+.container{
+     max-height: 100%;
+     max-width: 100%;
+}
+
+
+#exp_col, #descriptive_col{
+    padding: 1rem;
+    background-color: blue;
+    border: 2px solid white;
+    color: white;    
+}
+
+#top{
+    padding: 0.1rem;
+    border: 1px solid white;
+    color: white;
+}
+
+#map_col{
+    padding: 1rem;
+    width: 70%;
+    border: 6px solid white;
+    background-color: #003366;
+    color: white;
+}
+
+#info{
+    padding: 1rem;
+    width: 30%;
+    border: 6px solid white;
+    background-color: red;
+    color: white;
+}
